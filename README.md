@@ -1,16 +1,27 @@
-## Hi there 👋
+# Three Languages, One Keyboard
 
-<!--
-**russ-mccuen/russ-mccuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I’m solving problems daily in **Python**, **Java**, and **C++** — because I teach all three languages and I am constantly screwing up which syntax goes with which language. So now I will never screw up again, all thanks to GitHub!
 
-Here are some ideas to get you started:
+## Current Mission: 31-Day Challenge  
+Solving the same problem in all three languages every day:  
+- ✅ Python — fast, clean, no excuses  
+- ✅ Java — structured, strict, predictable  
+- ✅ C++ — efficient, unforgiving, keeps you sharp  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Language Breakdown  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russ-mccuen&layout=compact)
+
+---
+
+### About Me  
+- Husband, Dad, Army Vet
+- Wolfpack 🔴🐺⚪
+- Purple Folder 🟣📁🐈‍⬛
+
+---
+
+Follow the daily grind:  
+[threeLanguageJuly](https://github.com/YourGitHubUsername/threeLanguageJuly)
