@@ -3,7 +3,7 @@
 Welcome! I’m solving problems daily in **Python**, **Java**, **C++**, and **Rust**! I teach three of the languages (all but Rust) and I am constantly screwing up which syntax goes with which language. So now I will never screw up again, all thanks to GitHub!
 
 ## Current Mission: 31-Day Challenge  
-Solving the same problem in all three languages every day:  
+Solving the same problem in all four languages every day:  
 - Python — fast, clean, no excuses  
 - Java — structured, strict, predictable  
 - C++ — efficient, unforgiving, keeps you sharp
