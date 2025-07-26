@@ -9,6 +9,8 @@ Solving the same problem in all four languages every day:
 - C++ — efficient, unforgiving, keeps you sharp
 - Rust - because I know a Rust fanatic and I am curious if it is as awesome as the fanatic says it is
 
+## I've made the repo private because I will be using some of the problems in class.
+
 ---
 
 ## Language Breakdown  
@@ -21,7 +23,3 @@ Solving the same problem in all four languages every day:
 - Husband, Dad, Army Vet
 - Wolfpack 🔴🐺⚪
 - Purple Folder 🟣📁🐈‍⬛
-
----
-
-I've made the repo private because I will be using some of the problems in class.
