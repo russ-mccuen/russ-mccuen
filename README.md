@@ -24,5 +24,4 @@ Solving the same problem in all four languages every day:
 
 ---
 
-Follow the daily grind:  
-[fourLanguageJuly](https://github.com/russ-mccuen/fourLanguageJuly)
+I've made the repo private because I will be using some of the problems in class.
